@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baka-14
 - 👀 I’m interested in Machine learning and Ai
 - 🌱 I’m currently learning Deep reinforcement learning 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything that levarages technology for our benefit. 
 - 📫 You can reach me through mail ventrapragadasaisrikar123@gmail.com
 
 <!---
